@@ -12,7 +12,7 @@
         url = git://github.com/dumganhar/ccs-res.git
 [submodule "extensions/cocos2dx-store"]
 	path = extensions/cocos2dx-store
-	url = git@github.com:sasan-j/cocos2dx-store.git
+	url = https://github.com/sasan-j/cocos2dx-store.git
 [submodule "external/jansson"]
 	path = external/jansson
 	url = git@github.com:vedi/jansson.git
